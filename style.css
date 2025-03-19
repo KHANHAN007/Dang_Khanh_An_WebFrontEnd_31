@@ -1,0 +1,10 @@
+.demo{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    color: white;
+    border: 10px solid black;
+    text-align: center;
+    line-height: 200px;
+}
